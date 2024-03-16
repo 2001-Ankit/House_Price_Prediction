@@ -14,10 +14,7 @@ Display of predicted house price to the user.
 Requirements
 
 Python 3.x
-
 Flask
-
 scikit-learn
-
 Pandas
 NumPy
