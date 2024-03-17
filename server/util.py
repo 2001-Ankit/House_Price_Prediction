@@ -43,4 +43,3 @@ def load_save_artifacts():
 if __name__ == '__main__':
     load_save_artifacts()
     print(get_location_names())
-    print(estimate_params('Indira Nagar',750, 2, 4))
